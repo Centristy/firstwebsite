@@ -1,7 +1,7 @@
 h1{
-    font-size: 15rem;
+    font-size: 15px;
 }
 
 .letter {
-    transition: color 5000ms;
+    transition: color 3000ms;
 }
