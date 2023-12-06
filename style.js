@@ -1,4 +1,5 @@
 
+const h1 = document.querySelectorAll('h1');
 
 
 
