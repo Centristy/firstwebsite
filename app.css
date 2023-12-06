@@ -7,13 +7,11 @@ h1{
     transition: color 1000ms;
 }
 
-div{
+button{
     text-align: center;
-}
-
-.test{
-    height:100px;
-    width:150px;
-    font-size: 20px;
+    color:Navy;
+    height:3rem;
+    width:4rem;
+    font-size: 1rem;
 
 }
