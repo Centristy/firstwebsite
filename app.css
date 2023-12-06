@@ -4,5 +4,16 @@ h1{
 }
 
 .letter {
-    transition: color 3000ms;
+    transition: color 1000ms;
+}
+
+div{
+    text-align: center;
+}
+
+.test{
+    height:100px;
+    width:150px;
+    font-size: 20px;
+
 }
