@@ -7,6 +7,12 @@ h1{
     transition: color 1000ms;
 }
 
+.paused {
+
+    -webkit-text-stroke: 2px black
+   
+}
+
 button{
     text-align: center;
     color:Navy;
