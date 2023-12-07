@@ -10,6 +10,17 @@ function randomRGB() {
     return `rgb(${r},${b},${g})`
 }
 
+
+
+
+function returnletter(a){
+
+let whatletter = document.querySelector('input').value
+
+return whatletter.charAt(a);
+
+}
+
 function stopcolor(){
     document.querySelector(".letter").className = "paused";
     
@@ -22,8 +33,12 @@ function gocolor(){
     
 
 }
+function findletter(a){
+let inputLetter = document.querySelector('input')
 
+return inputLetter.charAt(a);
 
+}
 
 setInterval(function (){
 
